@@ -16,7 +16,23 @@
 
 <p>Content is turning into an automated source for new projects! We've also seen an increase of <a href=""https://www.themarketingtechnologist.co/calculation-of-confidence-intervals-for-ratios/"">guest</a> <a href=""https://www.themarketingtechnologist.co/whats-new-in-mraid-3-0/"">bloggers</a>, which is great! We'd really like to see more experts share opinions here. If you fancy writing for The Marketing Technologist, just drop us a line at <a href=""https://twitter.com/m__technologist"">Twitter</a>.</p>
 
-<h2 id=""lookingatthedata"">Looking at the data</h2>
+<h2 id=""lookingatthedata""># Python Program to convert temperature in celsius to fahrenheit
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+# Python Program to convert temperature in celsius to fahrenheit
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+Looking at the data</h2>
 
 <p>We've had <strong>254.716 visits</strong> to our website and <strong>27.5% of these resulted in a full read</strong> of a post. We had a generally upward trend starting with roughly 1500 weekly visits in January and ending up with 7.500 in December, that's <strong>a 400% increase in weekly visits</strong>! Looking more closely at the trend, we had two major traffic peaks: </p>
 

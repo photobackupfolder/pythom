@@ -13,6 +13,22 @@
 <blockquote>
   <p>I've read [this post] on your blog. Can you set up [x] for us?</p>
 </blockquote>
+# Python Program to convert temperature in celsius to fahrenheit
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+# Python Program to convert temperature in celsius to fahrenheit
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
 
 <p>Content is turning into an automated source for new projects! We've also seen an increase of <a href=""https://www.themarketingtechnologist.co/calculation-of-confidence-intervals-for-ratios/"">guest</a> <a href=""https://www.themarketingtechnologist.co/whats-new-in-mraid-3-0/"">bloggers</a>, which is great! We'd really like to see more experts share opinions here. If you fancy writing for The Marketing Technologist, just drop us a line at <a href=""https://twitter.com/m__technologist"">Twitter</a>.</p>
 

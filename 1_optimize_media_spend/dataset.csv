@@ -13,7 +13,23 @@ datetime_NL,Sales,day_of_the_week,sales,radio_grp,seasonality_monday,seasonality
 2015-06-12,0,Friday,4.964662053374931,0.0,0,0,0,1,0,0
 2015-06-13,0,Saturday,12.638978450419579,8.0,0,0,0,0,1,0
 2015-06-14,0,Sunday,2.103104769012318,0.0,0,0,0,0,0,1
-2015-06-15,0,Monday,4.7151946715323225,0.0,1,0,0,0,0,0
+2015-06-15,0,Monday,4.7151946715323225,0.0,1,0,0,0,0,0# Python Program to convert temperature in celsius to fahrenheit
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+# Python Program to convert temperature in celsius to fahrenheit
+
+# change this value for a different result
+celsius = 37.5
+
+# calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+
 2015-06-16,0,Tuesday,7.311953614951477,0.0,0,1,0,0,0,0
 2015-06-17,0,Wednesday,8.600856262109936,2.25,0,0,0,0,0,0
 2015-06-18,0,Thursday,6.113896669328234,4.6,0,0,1,0,0,0
